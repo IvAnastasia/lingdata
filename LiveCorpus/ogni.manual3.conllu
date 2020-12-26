@@ -1,3 +1,6 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe									
+# udpipe_model = russian-syntagrus-ud-2.6-200830									
+# udpipe_model_licence = CC BY-NC-SA									
 1	Привет	привет	INTJ	_	_	_	conj	_	words@vs1984f#@vs1984f#9.655#9.93
 2	/	/	PUNCT	_	_	4	punct	_	words@vs1984f#@vs1984f#9.93#10.205
 3	/	/	PUNCT	_	_	4	punct	_	words@vs1984f#@vs1984f#10.205#10.48
@@ -459,7 +462,7 @@
 459	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	462	fixed	_	words@vs1984f#@vs1984f#187.824#188.041
 460	кого	кто	PRON	_	Case=Gen	470	obl	_	words@vs1984f#@vs1984f#188.041#188.258
 461	ещё	еще	ADV	_	Degree=Pos	978	advmod	_	words@vs1984f#@vs1984f#188.258#188.475
-462	можно	можно	ADV	_	Degree=Pos	198	conj	_	words@vs1984f#@vs1984f#188.475#188.692
+462	можно	можно		_	Degree=Pos	198	conj	_	words@vs1984f#@vs1984f#188.475#188.692
 463	в	в	ADP	_	_	242	case	_	words@vs1984f#@vs1984f#188.692#188.909
 464	группу-то	группу-то	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	470	obl	_	words@vs1984f#@vs1984f#188.909#189.126
 465	сначала	сначала	ADV	_	Degree=Pos	470	advmod	_	words@vs1984f#@vs1984f#189.126#189.343
@@ -489,7 +492,7 @@
 489	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2	496	obl	_	words@vs1984f#@vs1984f#196.284#196.481
 490	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	496	nsubj	_	words@vs1984f#@vs1984f#196.481#196.678
 491	ещё	еще	ADV	_	Degree=Pos	496	advmod	_	words@vs1984f#@vs1984f#196.678#196.875
-492	поговорим	говорить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	198	conj	_	words@vs1984f#@vs1984f#196.875#197.072
+492	поговорим	поговорить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	198	conj	_	words@vs1984f#@vs1984f#196.875#197.072
 493	на	на	ADP	_	_	499	case	_	words@vs1984f#@vs1984f#197.072#197.269
 494	другом	другой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	499	amod	_	words@vs1984f#@vs1984f#197.269#197.466
 495	интервью	интервью	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	496	obl	_	words@vs1984f#@vs1984f#197.466#197.663
@@ -670,7 +673,7 @@
 670	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	679	nsubj	_	words@vs1984f#@vs1984f#263.925#264.186
 671	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1105	obj	_	words@vs1984f#@vs1984f#264.186#264.447
 672	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	674	acl	_	words@vs1984f#@vs1984f#264.447#264.708
-673	сделать	делать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1092	xcomp	_	words@vs1984f#@vs1984f#264.708#264.969
+673	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1092	xcomp	_	words@vs1984f#@vs1984f#264.708#264.969
 674	/	/	PUNCT	_	_	685	punct	_	words@vs1984f#@vs1984f#264.969#265.23
 675	потому	потому	ADV	_	Degree=Pos	685	mark	_	words@vs1984f#@vs1984f#265.23#265.491
 676	что	что	SCONJ	_	_	682	fixed	_	words@vs1984f#@vs1984f#265.491#265.752
@@ -770,7 +773,7 @@
 770	И	и	CCONJ	_	_	949	cc	_	words@vs1984f#@vs1984f#289.031#289.457
 771	вот	вот	PART	_	_	780	conj	_	words@vs1984f#@vs1984f#289.457#289.883
 772	/	/	PUNCT	_	_	780	punct	_	words@vs1984f#@vs1984f#289.883#290.309
-773	надо	надо	ADV	_	Degree=Pos	198	conj	_	words@vs1984f#@vs1984f#290.309#290.735
+773	надо	надо	VERB	_	Degree=Pos	198	conj	_	words@vs1984f#@vs1984f#290.309#290.735
 774	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	780	cop	_	words@vs1984f#@vs1984f#290.735#291.161
 775	каким-то	какой-то	DET	_	Case=Ins|Gender=Masc|Number=Sing	783	det	_	words@vs1984f#@vs1984f#291.161#291.587
 776	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	784	obl	_	words@vs1984f#@vs1984f#291.587#292.013
