@@ -2113,7 +2113,7 @@ pos@vs1984f	@vs1984f	187.607	187.824	ADP
 pos@vs1984f	@vs1984f	187.824	188.041	NOUN
 pos@vs1984f	@vs1984f	188.041	188.258	PRON
 pos@vs1984f	@vs1984f	188.258	188.475	ADV
-pos@vs1984f	@vs1984f	188.475	188.692	ADV
+pos@vs1984f	@vs1984f	188.475	188.692	VERB
 pos@vs1984f	@vs1984f	188.692	188.909	ADP
 pos@vs1984f	@vs1984f	188.909	189.126	NOUN
 pos@vs1984f	@vs1984f	189.126	189.343	ADV
@@ -3593,7 +3593,7 @@ gram@vs1984f	@vs1984f	288.692	288.95	_
 gram@vs1984f	@vs1984f	289.031	289.457	_
 gram@vs1984f	@vs1984f	289.457	289.883	_
 gram@vs1984f	@vs1984f	289.883	290.309	_
-gram@vs1984f	@vs1984f	290.309	290.735	Degree=Pos
+gram@vs1984f	@vs1984f	290.309	290.735	_
 gram@vs1984f	@vs1984f	290.735	291.161	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
 gram@vs1984f	@vs1984f	291.161	291.587	Case=Ins|Gender=Masc|Number=Sing
 gram@vs1984f	@vs1984f	291.587	292.013	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing
