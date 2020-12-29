@@ -462,7 +462,7 @@
 459	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	462	fixed	_	words@vs1984f#@vs1984f#187.824#188.041
 460	кого	кто	PRON	_	Case=Gen	470	obl	_	words@vs1984f#@vs1984f#188.041#188.258
 461	ещё	еще	ADV	_	Degree=Pos	978	advmod	_	words@vs1984f#@vs1984f#188.258#188.475
-462	можно	можно		_	Degree=Pos	198	conj	_	words@vs1984f#@vs1984f#188.475#188.692
+462	можно	можно VERB _	Degree=Pos	198	conj	_	words@vs1984f#@vs1984f#188.475#188.692
 463	в	в	ADP	_	_	242	case	_	words@vs1984f#@vs1984f#188.692#188.909
 464	группу-то	группу-то	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	470	obl	_	words@vs1984f#@vs1984f#188.909#189.126
 465	сначала	сначала	ADV	_	Degree=Pos	470	advmod	_	words@vs1984f#@vs1984f#189.126#189.343
@@ -773,7 +773,7 @@
 770	И	и	CCONJ	_	_	949	cc	_	words@vs1984f#@vs1984f#289.031#289.457
 771	вот	вот	PART	_	_	780	conj	_	words@vs1984f#@vs1984f#289.457#289.883
 772	/	/	PUNCT	_	_	780	punct	_	words@vs1984f#@vs1984f#289.883#290.309
-773	надо	надо	VERB	_	Degree=Pos	198	conj	_	words@vs1984f#@vs1984f#290.309#290.735
+773	надо	надо	VERB	_	_	198	conj	_	words@vs1984f#@vs1984f#290.309#290.735
 774	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	780	cop	_	words@vs1984f#@vs1984f#290.735#291.161
 775	каким-то	какой-то	DET	_	Case=Ins|Gender=Masc|Number=Sing	783	det	_	words@vs1984f#@vs1984f#291.161#291.587
 776	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	784	obl	_	words@vs1984f#@vs1984f#291.587#292.013
